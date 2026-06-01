@@ -6,6 +6,4 @@ content: We believe in collaboration and value your input throughout the design
 image: /images/contact.png
 draft: false
 ---
-Lorem ipsum
-
 ​
