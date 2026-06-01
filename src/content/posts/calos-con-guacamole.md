@@ -1,9 +1,18 @@
 ---
 title: Calos con guacamole
-image: ""
-authors: []
+image: "/images/author/john-doe.jpg"
+authors:
+  - Yo yo mismo
 date: ""
-description: ""
-categories: []
+description: "pollo"
+categories:
+  - seo
+  - pollo
 ---
+# etye tert trgrtg rt erg
 
+​
+
+dghghdghdgh
+
+​
